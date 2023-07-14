@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Manan Piyushkumar Ayde
 ====================================================================================================================================
 
-Aspiring Business/Data Analyst
+Aspiring Data Analyst
 ------------
 
 "I'm a recent graduate passionate about business/data analysis, with strong skills in SQL and Python. I'm eager to contribute my analytical mindset and drive for learning to support business success in my next role."
